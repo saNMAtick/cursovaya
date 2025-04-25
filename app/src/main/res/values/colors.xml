@@ -4,4 +4,10 @@
     <color name="white">#FFFFFFFF</color>
     <color name="price_color">#FF5722</color>
     <color name="rating_color">#FFC107</color>
+    <color name="surfaceVariant">#E7E0EC</color>
+    <color name="surfaceContainer">#F3EDF7</color>
+    <color name="outlineVariant">#CAC4D0</color>
+    <color name="onSurface">#1C1B1F</color>
+    <color name="onSurfaceVariant">#49454F</color>
+    <color name="onPrimary">#FFFFFF</color>
 </resources>
